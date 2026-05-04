@@ -3,4 +3,4 @@ ipykernel
 pandas
 lxml
 requests
-
+matplotlib
